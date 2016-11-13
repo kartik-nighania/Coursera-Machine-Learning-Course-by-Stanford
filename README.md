@@ -9,26 +9,28 @@ Software used- Matlab and Octave
 # supervised learning-
 
 neural networks
+
 linear regression
+
 logistic regression
+
 model selection 
+
 support vector machine
 
 
 # unsupervised learning-
 
 K-means algorithm 
+
 principal component analysis
+
 anomaly detectionbymultivariate gaussian system
+
 collaborative filtering
+
 large scale machine learning 
+
 online learning 
+
 recommender systems
-
-
-
-
-
-
-
-
