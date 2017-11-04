@@ -1,36 +1,38 @@
 # Machine Learning Codes completed during online course by Stanford - Andrew Ng
-Software used- Matlab and Octave 
 
-# hand writing recognition using neural networks
-# building email spam classifiers
-# optical character recognition in pics
-# movie recommender systems
+## Software used- Matlab / Octave 
 
-# supervised learning-
+## Projects done_
+- hand writing recognition using neural networks
+- building email spam classifiers
+- optical character recognition in pics
+- movie recommender systems
 
-neural networks
+## supervised learning-
 
-linear regression
+- neural networks
 
-logistic regression
+- linear regression
 
-model selection 
+- logistic regression
 
-support vector machine
+- model selection 
+
+- support vector machine
 
 
-# unsupervised learning-
+## unsupervised learning-
 
-K-means algorithm 
+- K-means algorithm 
 
-principal component analysis
+- principal component analysis
 
-anomaly detectionbymultivariate gaussian system
+- anomaly detection by multivariate gaussian system
 
-collaborative filtering
+- collaborative filtering
 
-large scale machine learning 
+- large scale machine learning 
 
-online learning 
+- online learning 
 
-recommender systems
+- recommender systems
