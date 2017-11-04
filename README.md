@@ -2,7 +2,7 @@
 
 ## Software used- Matlab / Octave 
 
-## Projects done_
+## Projects done-
 - hand writing recognition using neural networks
 - building email spam classifiers
 - optical character recognition in pics
